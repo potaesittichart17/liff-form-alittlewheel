@@ -307,8 +307,8 @@
 
     <script>
         // ============== CONFIG ==============
-        const LIFF_ID = "YOUR_LIFF_ID"; 
-        const GAS_WEB_APP_URL = "YOUR_GAS_WEB_APP_URL";
+        const LIFF_ID = "2008056456-AE9jQjyw"; 
+        const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycby6bqAZ_I1kzETf1l2dNlY6n-_SWp3hp8nQCXNMnlf-qabxjObFNkr091FN_gUiJxm7Ng/exec";
         // ==================================
 
         let userProfile = null;
